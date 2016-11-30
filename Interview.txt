@@ -1,0 +1,11 @@
+Amtenaar binnen verkeersafdeling en aangesteld als contactpersoon, weet alles van parkeergerages.
+
+Hoe werk het huidige systeem?
+Geen specifieke problemen, maar er moeten dingen bij, zoals de managementfuncties.
+
+Managementfuncties?
+Belangrijk is verkoopinformatie, hoeveel, wanner, welke gerage. Om statistieken te kunnen maken welke garage druk is. Onderhoud? Contract met onderhoudsbedrijf, bevijlinging. Voor de bedrijven: cehcken of ze hun sla’s naleven. Is het beveilingsbedrijf er 2 keer per dag geweest?
+Zien: aankomst en vertrektijden, incidenten: hoe lang duurd het voordat ze er zijn. Er zijn mederwerkers in de paarkeergerages, hoeven niet bijgehouden te worden.
+Geen rekening houden met uitzonderingen, medewerkers zijn hiervoor aanwezig. Ook voor kaartje kwijt of kapot.
+Als het kaartje kwijt is, betaal je het maximaal tarief. Tariefen als parameters te zien. 
+Seizoentickethouders? Gereserveerd, kan naar binnen als boordje op vol staat. Slagboom blijft dicht als garage vol is, behalve voor seizoentickethouders.
